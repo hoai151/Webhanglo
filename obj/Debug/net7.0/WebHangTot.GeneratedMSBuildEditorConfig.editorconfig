@@ -9,25 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebHangTot
 build_property.RootNamespace = WebHangTot
-build_property.ProjectDir = D:\Project ASP\Backend\Webhanglo\
+build_property.ProjectDir = D:\Visual Project\ASP-DotNet\WebsiteHangTot\WebHangTot\Webhanglo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project ASP\Backend\Webhanglo
+build_property.MSBuildProjectDirectory = D:\Visual Project\ASP-DotNet\WebsiteHangTot\WebHangTot\Webhanglo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project ASP/Backend/Webhanglo/Views/Home/Index.cshtml]
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP/Backend/Webhanglo/Views/_ViewImports.cshtml]
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP/Backend/Webhanglo/Views/_ViewStart.cshtml]
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP/Backend/Webhanglo/Views/Shared/_Layout.cshtml]
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/wwwroot/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/wwwroot/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/wwwroot/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eib623rmd9
+
+[D:/Visual Project/ASP-DotNet/WebsiteHangTot/WebHangTot/Webhanglo/wwwroot/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-5mmowrflpj

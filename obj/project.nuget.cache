@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9V4CDjWP1QI8u3a0Bqi4WDOVSJc5mejMqIC+25IXZPx18xfEJsCBVUnvfWTA5wkW6oplrZRd9s07+H2wJDAQ0A==",
+  "dgSpecHash": "lPm2E0+pDYTUcds9WxusAC3zmQeuZTYaYNFHjloG6lAB/DsXKffBKH6tdkfi5IGro4wp8a3yrv8rGOOxvNrbdw==",
   "success": true,
-  "projectFilePath": "D:\\Project ASP\\Backend\\Webhanglo\\WebHangTot.csproj",
+  "projectFilePath": "D:\\Visual Project\\ASP-DotNet\\WebsiteHangTot\\WebHangTot\\Webhanglo\\WebHangTot.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

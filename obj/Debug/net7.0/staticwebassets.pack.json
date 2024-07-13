@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebHangTot.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebHangTot.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\css\\formlogin.css",
+      "PackagePath": "staticwebassets\\css\\formlogin.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Dụng cụ 1.jpg",
+      "PackagePath": "staticwebassets\\images\\Dụng cụ 1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Dụng cụ 2.webp",
+      "PackagePath": "staticwebassets\\images\\Dụng cụ 2.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Dụng cụ 3.jpg",
+      "PackagePath": "staticwebassets\\images\\Dụng cụ 3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Dụng cụ 5.jpg",
+      "PackagePath": "staticwebassets\\images\\Dụng cụ 5.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\MayGiacAqua.png",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\MayGiacAqua.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\Máy giặt Aqua.png",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\Máy giặt Aqua.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\Tủ lạnh Aqua.png",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\Tủ lạnh Aqua.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\lg-ai-dd-inverter-9-kg-fb1209s6m-250324-095640-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\lg-ai-dd-inverter-9-kg-fb1209s6m-250324-095640-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\lg-gr-b256jds-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\lg-gr-b256jds-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\MayGiac\\product-319618-011223-045624-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\MayGiac\\product-319618-011223-045624-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Nhà bếp đẹp.jpg",
+      "PackagePath": "staticwebassets\\images\\Nhà bếp đẹp.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Nhà bếp.jpg",
+      "PackagePath": "staticwebassets\\images\\Nhà bếp.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\Frame-1000001028-1200x104.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\Frame-1000001028-1200x104.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\GD-nha-bep-168x168.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\GD-nha-bep-168x168.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\bgHome.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\bgHome.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\giat-say-168x168.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\giat-say-168x168.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\hut-bui-168x168.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\hut-bui-168x168.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\lam-sach-khong-khi-168x168.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\lam-sach-khong-khi-168x168.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\tivi-168x168.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\tivi-168x168.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\Shop\\tu-lanh-168x168-2.png",
+      "PackagePath": "staticwebassets\\images\\Shop\\tu-lanh-168x168-2.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\android-sony-4k-75-inch-kd-75x80k-180322-021915-550x340.png",
+      "PackagePath": "staticwebassets\\images\\TBGD\\android-sony-4k-75-inch-kd-75x80k-180322-021915-550x340.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\google-tivi-oled-sony-4k-55-inch-55a80l-(27).jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\google-tivi-oled-sony-4k-55-inch-55a80l-(27).jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\google-tivi-qled-tcl-4k-75-inch-75c845-(24).jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\google-tivi-qled-tcl-4k-75-inch-75c845-(24).jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\google-tivi-sony-4k-75-inch-kd-75x77l-010623-033210-550x340.jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\google-tivi-sony-4k-75-inch-kd-75x77l-010623-033210-550x340.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\smart-tivi-lg-4k-75-inch-75ur7550psc-(25).jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\smart-tivi-lg-4k-75-inch-75ur7550psc-(25).jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\smart-tivi-lg-4k-75-inch-75ur9050psk-(25).jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\smart-tivi-lg-4k-75-inch-75ur9050psk-(25).jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\smart-tivi-qned-lg-4k-65-inch-65qned80sra-(27).jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\smart-tivi-qned-lg-4k-65-inch-65qned80sra-(27).jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBGD\\tu-lanh-samsung-inverter-648-lit-rf59cb66f8s-sv-0-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\TBGD\\tu-lanh-samsung-inverter-648-lit-rf59cb66f8s-sv-0-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBNB\\291470-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\TBNB\\291470-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TBNB\\robot-hut-bui-lau-nha-ecovacs-x2-combo-310324-100116-600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\TBNB\\robot-hut-bui-lau-nha-ecovacs-x2-combo-310324-100116-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\65578_1_.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\65578_1_.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\fvfv.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\fvfv.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\png-transparent-4k-resolution-smart-tv-samsung-led-backlit-lcd-ultra-high-definition-television-samsung-television-display-advertising-media-thumbnail.png",
+      "PackagePath": "staticwebassets\\images\\TV\\png-transparent-4k-resolution-smart-tv-samsung-led-backlit-lcd-ultra-high-definition-television-samsung-television-display-advertising-media-thumbnail.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\smart-tivi-coocaa-hd-32-inch-32s3u_1_.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\smart-tivi-coocaa-hd-32-inch-32s3u_1_.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\smart-tivi-samsung-uhd-4k-43-inch-ua43au7002.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\smart-tivi-samsung-uhd-4k-43-inch-ua43au7002.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\smart_tivi_coocaa_fhd_43_inch_wifi_43s3u.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\smart_tivi_coocaa_fhd_43_inch_wifi_43s3u.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\tivi_xiaomi_a_32_inch_hd.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\tivi_xiaomi_a_32_inch_hd.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\ua55au7002.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\ua55au7002.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\TV\\ua55au7700kxxv.webp",
+      "PackagePath": "staticwebassets\\images\\TV\\ua55au7700kxxv.webp"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\bgHome.png",
+      "PackagePath": "staticwebassets\\images\\bgHome.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\bnShop.png",
+      "PackagePath": "staticwebassets\\images\\bnShop.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\images\\bowl-2.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\images\\bowl-3.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\dụng cụ 4.jpg",
+      "PackagePath": "staticwebassets\\images\\dụng cụ 4.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\images\\logo-black.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\logo-no-background.png",
+      "PackagePath": "staticwebassets\\images\\logo-no-background.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\images\\person-1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\prepros-6.config",
+      "PackagePath": "staticwebassets\\prepros-6.config"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\services.html",
+      "PackagePath": "staticwebassets\\services.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "D:\\Visual Project\\ASP-DotNet\\WebHangTot\\WebHangTot\\wwwroot\\thankyou.html",
+      "PackagePath": "staticwebassets\\thankyou.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebHangTot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebHangTot.props",
+      "PackagePath": "build\\WebHangTot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebHangTot.props",
+      "PackagePath": "buildMultiTargeting\\WebHangTot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebHangTot.props",
+      "PackagePath": "buildTransitive\\WebHangTot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
